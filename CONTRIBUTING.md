@@ -1,4 +1,4 @@
-# Contributing to Erlang/OTP
+# Contributing to Erlang/OTP GHA Test
 
 1. [License](#license)
 2. [Reporting a bug](#reporting-a-bug)
